@@ -1,10 +1,6 @@
 # Pedro Martins
 
-Estudante dedicado de Análise e Desenvolvimento de Sistemas, com sólida base teórica e
- experiência prática em DevOps. Possuo familiaridade com conceitos de desenvolvimento ágil,
- automação de infraestrutura e práticas de CI/CD. Venho em transição de carreira, após desenvolver um portifólio variado de projetos na área da construção civil e industrial como gerente de projetos. Me encontro motivado a aplicar e expandir meus
- conhecimentos em ambientes reais de trabalho, sou proativo, colaborativo e comprometido
- em aprender rapidamente.
+QA Analyst with a solid foundation in software development and a successful transition into Quality Assurance. Hands-on experience in both manual and automated testing, test planning, API validation, and continuous integration practices. Proficient in Cypress and JavaScript for test automation, and experienced in CI/CD validation with GitHub Actions and Azure DevOps. Known for a critical eye, attention to detail, and ability to collaborate across teams. Previous experience as a project manager enhances my communication, analytical thinking, and ability to align business and technical goals.
 
 ### Conecte-se comigo
 
